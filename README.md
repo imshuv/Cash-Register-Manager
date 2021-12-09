@@ -1,2 +1,3 @@
-# Cash-Register-Manager
-A Vanilla JS app to help the seller return the change to customers
+# Cash Register Manager
+
+### A tool for shop owners to sort the notes for customer to give for change.
